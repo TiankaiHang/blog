@@ -1,0 +1,2 @@
+# blog
+For self learning
