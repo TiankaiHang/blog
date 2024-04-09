@@ -6,3 +6,8 @@
 
 ## 2. Accelerate the training of diffusion models -- 扩散模型训练加速
 
+
+## 启发性文章
+
+- [The Bitter Lesson翻译](https://github.com/TiankaiHang/blog/issues/6#issue-2232487753)
+- 
